@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif">
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://anjisha616.github.io/Anjisha-s-Portfolio/](https://anjisha616.github.io/Anjisha-s-Portfolio/)
+- 👨‍💻 My Protfolio: [https://anjisha616.github.io/Anjisha-s-Portfolio/](https://anjisha616.github.io/Anjisha-s-Portfolio/)
 
 - 💬 Ask me about **HTML, CSS & basic JavaScript, Responsive web design ,Flexbox & CSS layouts**
 
